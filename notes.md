@@ -74,126 +74,163 @@
 
 ---
 
-## 13. hallo (hello) 👋  
+## 13. groß (tall)  
+- **German:** Der Mann ist sehr **groß**.  
+- **English:** The man is very **tall**.  
+
+---
+
+## 14. hallo (hello) 👋  
 - **German:** **Hallo**, wie geht’s dir?  
 - **English:** **Hello**, how are you?  
 
 ---
 
-## 14. ich (I)  
+## 15. ich (I)  
 - **German:** **Ich** liebe Schokolade.  
 - **English:** **I** love chocolate.  
 
 ---
 
-## 15. ja (yes) ✔️  
+## 16. ist (is)  
+- **German:** Der Apfel **ist** rot.  
+- **English:** The apple **is** red.  
+
+---
+
+## 17. ja (yes) ✔️  
 - **German:** **Ja**, das ist richtig.  
 - **English:** **Yes**, that is correct.  
 
 ---
 
-## 16. Kaffee (coffee) ☕  
+## 18. Kaffee (coffee) ☕  
 - **German:** Trinken wir **Kaffee** zusammen?  
 - **English:** Shall we drink **coffee** together?  
 
 ---
 
-## 17. Mann (husband/man) 👨  
+## 19. klug (smart)  
+- **German:** Das Kind ist sehr **klug**.  
+- **English:** The child is very **smart**.  
+
+---
+
+## 20. lag (lied)  
+- **German:** Der Hund **lag** auf dem Boden.  
+- **English:** The dog **lied** on the floor.  
+
+---
+
+## 21. Mann (husband/man) 👨  
 - **German:** Der **Mann** liest ein Buch.  
 - **English:** The **man** is reading a book.  
 
 ---
 
-## 18. mein (my)  
+## 22. mein (my)  
 - **German:** **Mein** Hund ist klein.  
 - **English:** **My** dog is small.  
 
 ---
 
-## 19. meine (mine)  
+## 23. meine (mine)  
 - **German:** Das ist **meine** Tasche.  
 - **English:** That is **mine**.  
 
 ---
 
-## 20. Milch (milk) 🥛  
+## 24. Milch (milk) 🥛  
 - **German:** Ich trinke keine **Milch**.  
 - **English:** I don’t drink **milk**.  
 
 ---
 
-## 21. Mutter (mother) 👩‍👧  
+## 25. Mutter (mother) 👩‍👧  
 - **German:** Meine **Mutter** kocht gern.  
 - **English:** My **mother** likes cooking.  
 
 ---
 
-## 22. nein (no) ❌  
+## 26. nett (nice)  
+- **German:** Er ist ein **netter** Mann.  
+- **English:** He is a **nice** man.  
+
+---
+
+## 27. nein (no) ❌  
 - **German:** **Nein**, das ist falsch.  
 - **English:** **No**, that is wrong.  
 
 ---
 
-## 23. oder (or)  
+## 28. oder (or)  
 - **German:** Möchtest du Tee **oder** Kaffee?  
 - **English:** Do you want tea **or** coffee?  
 
 ---
 
-## 24. Schwester (sister) 👩‍👧  
+## 29. sehr (very)  
+- **German:** Das ist **sehr** interessant.  
+- **English:** That is **very** interesting.  
+
+---
+
+## 30. Schwester (sister) 👩‍👧  
 - **German:** Meine **Schwester** ist jünger als ich.  
 - **English:** My **sister** is younger than me.  
 
 ---
 
-## 25. Sohn (son) 👦  
+## 31. Sohn (son) 👦  
 - **German:** Ihr **Sohn** ist acht Jahre alt.  
 - **English:** Her **son** is eight years old.  
 
 ---
 
-## 26. Tee (tea) 🍵  
+## 32. Tee (tea) 🍵  
 - **German:** Ich trinke gern **Tee** am Abend.  
 - **English:** I like drinking **tea** in the evening.  
 
 ---
 
-## 27. Tochter (daughter) 👧  
+## 33. Tochter (daughter) 👧  
 - **German:** Ihre **Tochter** ist sehr intelligent.  
 - **English:** Their **daughter** is very intelligent.  
 
 ---
 
-## 28. tschüss (bye) 👋  
+## 34. tschüss (bye) 👋  
 - **German:** **Tschüss**, bis morgen!  
 - **English:** **Bye**, see you tomorrow!  
 
 ---
 
-## 29. und (and)  
+## 35. und (and)  
 - **German:** Ich habe einen Hund **und** eine Katze.  
 - **English:** I have a dog **and** a cat.  
 
 ---
 
-## 30. Vater (father) 👨‍👦  
+## 36. Vater (father) 👨‍👦  
 - **German:** Mein **Vater** arbeitet im Büro.  
 - **English:** My **father** works in the office.  
 
 ---
 
-## 31. vier (four) 4️⃣  
+## 37. vier (four) 4️⃣  
 - **German:** Ich habe **vier** Äpfel.  
 - **English:** I have **four** apples.  
 
 ---
 
-## 32. Wasser (water) 💧  
+## 38. Wasser (water) 💧  
 - **German:** Kann ich ein Glas **Wasser** haben?  
 - **English:** Can I have a glass of **water**?  
 
 ---
 
-## 33. Wein (wine) 🍷  
+## 39. Wein (wine) 🍷  
 - **German:** Der **Wein** schmeckt gut.  
 - **English:** The **wine** tastes good.  
+
